@@ -1,0 +1,14 @@
+html{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+.container{
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+ul{
+    list-style-type: none;
+}
